@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729574655 source:c:\users\eduar\documents\estágio desafio target sistemas\main.c
+	<stdio.h>
+	<string.h>
+
+1729573565 source:c:\users\eduar\documents\estágio desafio target sistemas\desafio 2.c
+	<stdio.h>
+	<string.h>
+

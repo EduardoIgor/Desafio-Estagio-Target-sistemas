@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729579857 source:c:\users\eduar\documents\estágio desafio target sistemas\questão 05\questão 05\main.c
+	<stdio.h>
+	<stdlib.h>
+
